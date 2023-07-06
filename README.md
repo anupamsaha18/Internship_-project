@@ -1,5 +1,3 @@
-
-
 # FIFA WORLD CUP ANALYSIS
 Table of contents
 •	Overview
